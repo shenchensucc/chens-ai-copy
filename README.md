@@ -76,30 +76,23 @@ The AI will call `add_learning` or `update_preference` to keep your context curr
 
 ## Push to GitHub
 
-The repo is ready to push. Create the repository on GitHub first:
+**Option A: Using GitHub CLI (recommended)**
 
-1. Go to [github.com/new](https://github.com/new)
-2. Repository name: `chens-ai-copy`
-3. Description: `Personal digital twin MCP - context, experience, skills, preferences`
-4. Choose **Public** (or Private if you prefer)
-5. **Do not** initialize with README (we already have one)
-6. Click **Create repository**
+```powershell
+# One-time: authenticate
+gh auth login
 
-Then push from the project directory:
-
-```bash
+# Create repo and push
 cd chens-ai-copy
-git remote add origin https://github.com/YOUR_USERNAME/chens-ai-copy.git
-git branch -M main
-git push -u origin main
+.\setup-github.ps1
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username. If you already added a remote, update it:
+**Option B: Manual**
 
-```bash
-git remote set-url origin https://github.com/YOUR_USERNAME/chens-ai-copy.git
-git push -u origin main
-```
+1. Create repo at [github.com/new](https://github.com/new) — name: `chens-ai-copy`, Public
+2. Push: `git push -u origin main`
+
+Repo URL: https://github.com/shenchensucc/chens-ai-copy
 
 ## License
 
