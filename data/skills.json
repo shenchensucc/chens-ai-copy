@@ -1,0 +1,58 @@
+{
+  "technical": [
+    "Asset integrity management",
+    "Asset performance analysis",
+    "Risk Based Inspection (RBI)",
+    "API 580 RBI certified",
+    "NDE inspection",
+    "Corrosion engineering",
+    "Reliability engineering",
+    "Predictive maintenance",
+    "O&M strategy development",
+    "ISO 55000 asset management",
+    "Data analytics",
+    "Power BI",
+    "SQL",
+    "Python",
+    "R scripting",
+    "VBA automation",
+    "Microsoft Office",
+    "SAP",
+    "GE APM Meridium",
+    "ArcGIS",
+    "Google Earth"
+  ],
+  "engineeringDomains": [
+    "Transmission & distribution (natural gas utility)",
+    "Facility plants",
+    "Pipeline integrity",
+    "Mechanical engineering",
+    "Chemical engineering"
+  ],
+  "soft": [
+    "Project coordination",
+    "Stakeholder management",
+    "Cross-functional collaboration",
+    "Meeting facilitation",
+    "Technical writing",
+    "KPI reporting",
+    "Risk-based decision making"
+  ],
+  "certifications": [
+    "P.Eng (Professional Engineer)",
+    "API 580 RBI",
+    "Google Data Analytics Professional Certificate"
+  ],
+  "education": [
+    "PhD Chemical Engineering",
+    "MSc Mechanical Engineering",
+    "BSc Mechanical Engineering"
+  ],
+  "experienceEmployers": [
+    "Pacific Northern Gas",
+    "Suncor Energy",
+    "Nova Chemicals",
+    "Camber Technology Corporation",
+    "University of Alberta"
+  ]
+}

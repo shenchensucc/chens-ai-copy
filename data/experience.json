@@ -1,0 +1,77 @@
+{
+  "profile": {
+    "name": "Chen Shen",
+    "title": "Asset Integrity & Reliability Engineer",
+    "credentials": "PhD, P.Eng.",
+    "location": "Langley, BC",
+    "phone": "780-655-6828",
+    "email": "shenchensucc@gmail.com",
+    "summary": "Engineering professional with 10+ years supporting gas transmission, facilities, asset integrity, reliability, and technical programs within regulated utility and industrial environments. Demonstrated ability to lead technical staff, contractors, and trainees; manage budgets up to $500k+; and support operational and capital sustainment programs."
+  },
+  "positions": [
+    {
+      "role": "Asset Integrity Engineer – Program Lead",
+      "employer": "Pacific Northern Gas",
+      "location": "Vancouver, BC",
+      "period": "Sep 2023 – Present",
+      "highlights": [
+        "Manage ~$300k/year integrity budget; coordinate up to 10 contractors for ILI, integrity digs, NDE",
+        "Own full lifecycle of integrity dig program: planning, execution, post-dig learning, gap closure",
+        "Develop integrity KPIs and dashboards for senior management",
+        "Technical leadership per CSA Z662 and internal standards"
+      ]
+    },
+    {
+      "role": "Reliability Engineer",
+      "employer": "Suncor Energy",
+      "location": "Fort McMurray, AB",
+      "period": "Apr 2020 – Sep 2023",
+      "highlights": [
+        "Managed piping reliability program with budget exceeding $500k",
+        "Led 5 external contractors for inspection, assessment, repair, material upgrades",
+        "Mentored 3 co-op students",
+        "Created Power BI KPI dashboard; developed SQL/R scripts saving 100+ hours per engineer"
+      ]
+    },
+    {
+      "role": "Research Engineer (Materials Integrity and Environment)",
+      "employer": "Nova Chemicals",
+      "location": "Calgary, AB",
+      "period": "May 2019 – Apr 2020",
+      "highlights": [
+        "Led materials integrity and corrosion research for plant reliability",
+        "Led cooling water treatment and pipeline integrity research programs"
+      ]
+    },
+    {
+      "role": "Corrosion Chemical Research Engineer",
+      "employer": "Camber Technology Corporation",
+      "location": "Edmonton, AB",
+      "period": "Dec 2015 – May 2019",
+      "highlights": [
+        "Supervised up to 3 lab technicians; managed research funding",
+        "Root Cause Failure Analysis using metallurgy tests (microstructure, SEM/EDX)"
+      ]
+    },
+    {
+      "role": "Postdoctoral Fellowship",
+      "employer": "University of Alberta",
+      "location": "Edmonton, AB",
+      "period": "Jun 2016 – Oct 2016",
+      "highlights": [
+        "Eco-friendly chemical additives for corrosion inhibition; won provincial research funding"
+      ]
+    }
+  ],
+  "education": [
+    "PhD, Chemical Engineering – University of Alberta",
+    "BSc & MSc, Mechanical Engineering – Henan University of Science and Technology"
+  ],
+  "certifications": [
+    "Professional Engineer (EGBC, APEGA)",
+    "API 580 Certified",
+    "Google Data Analytics Professional Certificate"
+  ],
+  "standards": ["CSA Z662", "ASME B31.8", "API 510 / 570 / 579"],
+  "aiTools": ["Cursor", "ChatGPT", "Gemini"]
+}

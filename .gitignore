@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
+
+# Data files - structure is committed, sensitive content can be gitignored
+# Uncomment if you want to keep data private:
+# data/*.json

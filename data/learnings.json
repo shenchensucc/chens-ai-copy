@@ -1,0 +1,37 @@
+[
+  {
+    "id": "l-1",
+    "content": "Resume bullets: Use CAR method (Action Verb + Task + Result with metrics). Lead with Led, Managed, Developed, Coordinated.",
+    "source": "BC Hydro project - resume skills",
+    "category": "resume",
+    "date": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "l-2",
+    "content": "Tailor resume to job description: extract keywords, mirror language, reorder bullets by relevance, customize summary with company/role.",
+    "source": "BC Hydro project - resume-cv-builder skill",
+    "category": "resume",
+    "date": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "l-3",
+    "content": "ATS optimization: standard headings (Experience, Education, Skills), no tables/columns, spell out acronyms first, use .docx or text-based PDF.",
+    "source": "BC Hydro project - resume skills",
+    "category": "resume",
+    "date": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "l-4",
+    "content": "Cover letter structure: Opening interest, key qualifications (bullets), alignment with role, closing. Keep concise.",
+    "source": "BC Hydro project - generated cover letters",
+    "category": "resume",
+    "date": "2026-03-12T00:00:00.000Z"
+  },
+  {
+    "id": "l-5",
+    "content": "For FortisBC/utility roles: emphasize natural gas infrastructure, CSA Z662, consultant oversight, regulated utility experience, budget management.",
+    "source": "BC Hydro project - job matching",
+    "category": "job-search",
+    "date": "2026-03-12T00:00:00.000Z"
+  }
+]

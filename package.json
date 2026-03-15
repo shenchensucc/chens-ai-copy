@@ -1,0 +1,41 @@
+{
+  "name": "chens-ai-copy",
+  "version": "1.0.0",
+  "description": "Chen's AI Copy - Personal digital twin MCP for context, experience, skills, and preferences",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "chens-ai-copy": "./dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "personal-context",
+    "digital-twin"
+  ],
+  "author": "Chen Shen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shenchensucc/chens-ai-copy.git"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.24.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

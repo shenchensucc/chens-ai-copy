@@ -1,0 +1,27 @@
+{
+  "resumeFormat": {
+    "style": "ATS-optimized, achievement-focused",
+    "sectionsOrder": ["Summary", "Experience", "Education", "Skills", "Certifications"],
+    "bulletStyle": "CAR method: Action Verb + Task/Project + Result with Metrics",
+    "atsOptimized": true,
+    "maxPages": 2,
+    "actionVerbs": ["Led", "Managed", "Developed", "Coordinated", "Mentored", "Created", "Implemented", "Streamlined", "Optimized"],
+    "avoidPersonalPronouns": true,
+    "quantifyAchievements": true
+  },
+  "resumeSkills": {
+    "preferReactiveResumeSchema": true,
+    "exportFormats": ["Markdown", "HTML", "DOCX", "PDF"],
+    "tailorToJobDescription": true,
+    "keywordExtraction": true
+  },
+  "communication": {
+    "tone": "professional, direct",
+    "length": "concise",
+    "formality": "formal for cover letters and applications"
+  },
+  "coverLetter": {
+    "structure": "Opening interest, key qualifications (bullets), alignment with role, closing",
+    "signOff": "Sincerely"
+  }
+}
