@@ -29,14 +29,13 @@ Add to `~/.cursor/mcp.json` (Windows: `%APPDATA%\Cursor\User\globalStorage\mcp.j
   "mcpServers": {
     "chens-ai-copy": {
       "command": "node",
-      "args": ["C:/path/to/chens-ai-copy/dist/index.js"],
-      "env": {
-        "CHENS_AI_COPY_DATA_PATH": "C:/path/to/chens-ai-copy/data"
-      }
+      "args": ["D:/2026/2026-02-26 BC Hydro/chens-ai-copy/dist/index.js"]
     }
   }
 }
 ```
+
+Use the full path to your `chens-ai-copy` folder. Optionally set `CHENS_AI_COPY_DATA_PATH` in `env` if you want data elsewhere.
 
 Or use `npx` from the project directory:
 
