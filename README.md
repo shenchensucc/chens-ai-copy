@@ -39,6 +39,25 @@ Add to `~/.cursor/mcp.json` (Windows: `C:\Users\<you>\.cursor\mcp.json` or Curso
 
 Use the full path to your cloned `chens-ai-copy` folder.
 
+### Sync on every Cursor start
+
+The MCP uses `sync-and-run.ps1` which runs `git pull` before starting, so you always get the latest when opening Cursor. Ensure the MCP config points to the script:
+
+```json
+{
+  "chens-ai-copy": {
+    "command": "powershell",
+    "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "D:/2026/2026-03 Chens-ai-copy/sync-and-run.ps1"]
+  }
+}
+```
+
+### Setup on another machine
+
+1. Clone: `git clone https://github.com/shenchensucc/chens-ai-copy.git D:\2026\2026-03 Chens-ai-copy`
+2. Run: `cd D:\2026\2026-03 Chens-ai-copy && npm install && npm run build`
+3. Add the MCP config above to `~/.cursor/mcp.json` (adjust path if different)
+
 ## Data Structure
 
 | File | Content |
