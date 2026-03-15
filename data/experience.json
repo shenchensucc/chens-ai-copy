@@ -18,7 +18,8 @@
         "Manage ~$300k/year integrity budget; coordinate up to 10 contractors for ILI, integrity digs, NDE",
         "Own full lifecycle of integrity dig program: planning, execution, post-dig learning, gap closure",
         "Develop integrity KPIs and dashboards for senior management",
-        "Technical leadership per CSA Z662 and internal standards"
+        "Technical leadership per CSA Z662 and internal standards",
+        "Develop Chen's Engineer Toolbox: Python/Streamlit/FastAPI web app with TML dataloader workflows, inspection report PDF parsing, Modified B31G metal loss assessment, ILI pipeline visualization, and dig package generation"
       ]
     },
     {

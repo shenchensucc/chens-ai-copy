@@ -14,6 +14,8 @@
     "Power BI",
     "SQL",
     "Python",
+    "Streamlit",
+    "FastAPI",
     "R scripting",
     "VBA automation",
     "Microsoft Office",
@@ -22,6 +24,30 @@
     "ArcGIS",
     "Google Earth"
   ],
+  "engineerToolbox": {
+    "summary": "Chen's Engineer Toolbox — Python/Streamlit/FastAPI web app for facility and pipeline engineering. Skills and rules embedded for AI-assisted development.",
+    "dataloaderCMLs": [
+      "TML Data Loader: 20 workflows for batch processing TML design parameters (Status, AER Flag, Code Year, Design Code, Material, OD, NPS, Schedule, Pressure, Tnom, Tmin, etc.); Source_Data + template; AER_Status_CML filter",
+      "De-active CML: Generate dataloader to deactivate all CMLs in source sheet; flexible column aliases; Status Indicator = Inactive",
+      "Inspection Report Loader: Parse UT inspection PDFs (pdfplumber, OCR fallback, optional LLM Vision) → Read summaries or generate APM Measurements dataloader; optional Source Excel for Circuit→Equipment ID mapping"
+    ],
+    "b31g": [
+      "Modified B31G methodology (ASME B31G-2009) for pipeline metal loss assessment",
+      "Failure pressure (Pf) and Folias factor; methods: b31g, mb31g, ng18, rstreng, lpc1, shell92",
+      "Metal Loss Assessment (single feature) and Metal Loss Mass Assessment (bulk, 10-year corrosion growth projection)",
+      "Depth/length tolerances, z ≤ 50 and z > 50 handling; dimp/tp > 0.80 → >80% leak"
+    ],
+    "pipelineVisual": [
+      "ILI Visual Tool: Upload Excel or paste tabular data → chainage vs depth scatter; Viridis color scale; feature boxes by length/width",
+      "Dig Package: Parse Excel feature summary + joint summary; longseam orientation per joint; column mapping for distance, depth, length, width, orientation",
+      "Visualization-only (no assessment/statistics); Plotly interactive charts"
+    ],
+    "inspectionReportParser": [
+      "Ground truth iteration: validate_ground_truth.py, inspection_report_ground_truth.py",
+      "Key files: inspection_report_parser.py, inspection_dataloader.py",
+      "Acuren table parsing, zone-based CML IDs, OCR/LLM Vision fallback"
+    ]
+  },
   "engineeringDomains": [
     "Transmission & distribution (natural gas utility)",
     "Facility plants",
